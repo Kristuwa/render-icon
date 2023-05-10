@@ -1,8 +1,8 @@
 # About App
 
-This is an application that displays a random icon from the Font Awesome library when we click on a button. The icon should be visible 3 seconds after clicking.
+This is an application that displays a random icon from the Font Awesome library, when we click on a button. The icon should be visible 3 seconds after clicking.
 
-[App Link] (https://kristuwa.github.io/render-icon/)
+[App Link](https://kristuwa.github.io/render-icon/)
 
 # Technologies
 
